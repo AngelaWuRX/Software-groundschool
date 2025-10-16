@@ -14,7 +14,7 @@
 ![PX4 SITL Terminal](PX4_SITL.png)
 
 ### 2. QGroundControl Connected
-![QGroundControl UI](QGRoundControl.png)
+![QGroundControl UI](QGroundControl.png)
 
 ### 3. Gazebo
 ![Gazebo](Gazebo.png) 
