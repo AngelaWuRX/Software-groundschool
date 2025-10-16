@@ -11,13 +11,13 @@
 ## Screenshot
 
 ### 1. PX4 SITL Terminal Output
-![PX4 SITL Terminal](PX4_SITL.png)
+![PX4 SITL Terminal](images/PX4_SITL.png)
 
 ### 2. QGroundControl Connected
-![QGroundControl UI](QGroundControl.png)
+![QGroundControl UI](images/QGroundControl.png)
 
 ### 3. Gazebo
-![Gazebo](Gazebo.png) 
+![Gazebo](images/Gazebo.png) 
 
 ## Notes
 

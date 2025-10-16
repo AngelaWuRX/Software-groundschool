@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread('meme.png', cv2.IMREAD_GRAYSCALE)
+image = cv2.imread('images/meme.png', cv2.IMREAD_GRAYSCALE)
 
 params = cv2.SimpleBlobDetector_Params()
 params.filterByArea = True
