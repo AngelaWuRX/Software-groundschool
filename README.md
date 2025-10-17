@@ -12,7 +12,7 @@ NVIDIA Jetson Orin Nano
 - Improve flight controller: reinforcement learning research
 - Computer vision: revamp stitching code
 - Applications: 3D mapping for enviro research purposes!
-- ** research random thing: Deep Learning**
+- **research random thing: Deep Learning**
 3. What’s the “industry standard” for drone software in 2025?
 - Flight software: ROS 2-based, highly modular, PX4 for FC
 - Real-time autonomy: Advanced SLAM, path planning, AI inference
@@ -24,3 +24,9 @@ NVIDIA Jetson Orin Nano
 - Find ways of tracking your progress so you stay encouraged and feel like you’re doing something
 - For individual details, a combination of AI and fact-checking on individual sites/personal experience is best. AI isn’t perfect with specifics.
 - Reach out to your friends/us if you need help
+
+## Week 2
+1. How are drones used for aerial imagery purposes?
+2. How is OpenCV used for computer vision purposes? How do we use it as a club?
+3. What are some pre-made alternatives to writing our own aerial imagery code, and how do they work? What are the drawbacks?
+4. What’s the next steps forward as a club?
